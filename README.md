@@ -1,7 +1,6 @@
 ### Hi there 👋
 <div>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprove-ability&count_bg=%238ED558&title_bg=%23DDD3D3&icon=instacart.svg&icon_color=%23EF6F11&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprove-ability&count_bg=%2379C83D&title_bg=%23555555&icon=instacart.svg&icon_color=%23E96301&title=HITS&edge_flat=true"/></a>
 <a href="https://velog.io/@bard">
     <img 
         src="http://img.shields.io/badge/-TECH_BLOG-black?style=for-the-badge&logo=appveyor&logo=v&link=https://velog.io/@bard/"
