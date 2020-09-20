@@ -4,7 +4,7 @@
 
 <a href="https://velog.io/@bard">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=appveyor&logo=V&link=https://velog.io/@bard/"
+        src="http://img.shields.io/badge/-V-black?style=for-the-badge&logo=appveyor&logo=V&link=https://velog.io/@bard/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
