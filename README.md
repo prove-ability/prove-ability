@@ -7,7 +7,7 @@
 - React.js
 - Node.js
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prove-ability)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prove-ability)
 
 <div>
     <a href="https://hits.seeyoufarm.com">
