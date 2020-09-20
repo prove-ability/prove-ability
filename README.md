@@ -1,7 +1,11 @@
 ### 안녕하세요 👋
-- 💬 Ask me about ..
-> test
-> test2
+
+- 지구를 정복할 서비스 개발자 😄
+
+## Stack
+
+- React.js
+- Node.js
 
 <div>
     <a href="https://hits.seeyoufarm.com">
@@ -13,9 +17,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
 </div>
-<!--
-**prove-ability/prove-ability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
