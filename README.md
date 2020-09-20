@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 
-- 지구를 정복할 서비스 개발자 😄1
+- 지구를 정복할 서비스 개발자 😄
 
 ## Stack
 
@@ -12,15 +12,13 @@
 
 
 <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprove-ability&count_bg=%2379C83D&title_bg=%23555555&icon=instacart.svg&icon_color=%23E96301&title=HITS&edge_flat=true"/>
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprove-ability&count_bg=%2379C83D&title_bg=%23555555&icon=instacart.svg&icon_color=%23E96301&title=HITS&edge_flat=true"/>
 </a>
 <a href="https://velog.io/@bard">
-    <img 
+	<img 
     src="http://img.shields.io/badge/-TECH_BLOG-black?style=flat-square&logo=v&link=https://velog.io/@bard/"
     style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-<script src="https://gist.github.com/prove-ability/bfea9423a7f4f1f7877c9f6dc4637488.js"></script>
 
 <!--
 Here are some ideas to get you started:
