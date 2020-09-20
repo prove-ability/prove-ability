@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div align=center>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprove-ability&count_bg=%238ED558&title_bg=%23DDD3D3&icon=instacart.svg&icon_color=%23EF6F11&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 <!--
 **prove-ability/prove-ability** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
