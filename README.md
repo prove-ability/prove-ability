@@ -9,6 +9,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prove-ability&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prove-ability&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prove-ability)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
     <a href="https://hits.seeyoufarm.com">
